@@ -45,8 +45,8 @@ IT-продукт
 • Особенности тестирования мобильных приложений
 
 **Мои проекты**:  
-- [[Manual Testing Examples] (https://github.com/DmitryTesterQA/Manual-Testing)  
-- [[API Testing with Postman] (https://github.com/DmitryTesterQA/API-Testing-Postman)
+- [Manual Testing Examples] (https://github.com/DmitryTesterQA/Manual-Testing)  
+- [API Testing with Postman] (https://github.com/DmitryTesterQA/API-Testing-Postman)
 - [SQL-for-QA/tree/main] (https://github.com/DmitryTesterQA/SQL-for-QA)
 
 📫 **Связь**: [Telegram](@dnvvs)
