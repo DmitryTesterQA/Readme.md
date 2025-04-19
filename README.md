@@ -49,4 +49,4 @@ IT-продукт
 - [API Testing with Postman] (https://github.com/DmitryTesterQA/API-Testing-Postman)
 - [SQL-for-QA/tree/main] (https://github.com/DmitryTesterQA/SQL-for-QA)
 
-📫 **Связь**: [Telegram](@dnvvs)
+📫 **Связь**: [Telegram](https://t.me/dnvvs)
